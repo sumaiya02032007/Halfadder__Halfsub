@@ -1,4 +1,4 @@
-# Halfadder__Halfsub
+# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
