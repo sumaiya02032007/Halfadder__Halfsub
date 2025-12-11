@@ -1,9 +1,9 @@
 onerror {resume}
 quietly WaveActivateNextPane {} 0
-add wave -noupdate /Halfadd/a
-add wave -noupdate /Halfadd/b
-add wave -noupdate /Halfadd/sum
-add wave -noupdate /Halfadd/carry
+add wave -noupdate /Halfsub/a
+add wave -noupdate /Halfsub/b
+add wave -noupdate /Halfsub/diff
+add wave -noupdate /Halfsub/borrow
 TreeUpdate [SetDefaultTree]
 WaveRestoreCursors {{Cursor 1} {0 ps} 0}
 quietly wave cursor active 0
